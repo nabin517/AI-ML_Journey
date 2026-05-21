@@ -25,7 +25,7 @@ We executed advanced categorical grouping on specific features using the Split-A
 
 ## Repository Structure
 ```text
-aiml-journey/
+AI-ML_Journey/
 └── Day-02_Advanced-Pandas/
     ├── README.md               # Engineering documentation
     ├── advanced_pandas.ipynb   # Advanced manipulation notebook
