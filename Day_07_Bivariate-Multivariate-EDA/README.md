@@ -19,7 +19,8 @@ This module focuses on Bivariate (comparing two variables) and Multivariate (com
 
 ## Repository Structure
 
+```text
 AI-ML_Journey/
 └── Day-07_Bivariate-Multivariate-EDA/
-    └── README.md               # Advanced EDA documentation (this file)
+    ├── README.md               # Advanced EDA documentation (this file)
     └── titanic_eda.ipynb       # Jupyter Notebook with bivariate & multivariate analysis
